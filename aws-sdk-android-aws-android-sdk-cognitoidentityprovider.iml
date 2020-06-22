@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":aws-android-sdk-cognitoidentityprovider" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$MODULE_DIR$/.." external.system.id="GRADLE" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":aws-android-sdk-cognitoidentityprovider" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" />
+        <option name="LAST_KNOWN_AGP_VERSION" />
+      </configuration>
+    </facet>
+    <facet type="java-gradle" name="Java-Gradle">
+      <configuration>
+        <option name="BUILD_FOLDER_PATH" value="$MODULE_DIR$/build" />
+        <option name="BUILDABLE" value="true" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
+    <output url="file://$MODULE_DIR$/build/classes/java/main" />
+    <output-test url="file://$MODULE_DIR$/build/classes/java/test" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="aws-sdk-android-aws-android-sdk-core" exported="" scope="PROVIDED" />
+    <orderEntry type="module" module-name="aws-sdk-android-aws-android-sdk-core" exported="" scope="TEST" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="Gradle: aws-android-sdk-cognitoidentityprovider-asf-1.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="Gradle: gson-2.2.4" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="Gradle: android-2.3.3" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="Gradle: httpclient-4.0.1" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="Gradle: commons-logging-1.1.1" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="Gradle: opengl-api-gl1.1-android-2.1_r1" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="Gradle: xmlParserAPIs-2.6.2" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="Gradle: xpp3-1.1.4c" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="Gradle: json-20080701" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="Gradle: httpcore-4.0.1" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="Gradle: commons-codec-1.3" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: aws-android-sdk-cognitoidentityprovider-asf-1.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: gson-2.2.4" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: android-2.3.3" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: jackson-core-2.1.1" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: httpclient-4.0.1" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: commons-logging-1.1.1" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: opengl-api-gl1.1-android-2.1_r1" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: xmlParserAPIs-2.6.2" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: xpp3-1.1.4c" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: json-20080701" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: httpcore-4.0.1" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: commons-codec-1.3" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: aws-android-sdk-cognitoidentityprovider-asf-1.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: junit-4.12" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: robolectric-3.8" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: mockito-all-1.10.5" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: gson-2.2.4" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: android-2.3.3" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: shadows-framework-3.8" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: accessibility-test-framework-2.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: hamcrest-library-1.3" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: hamcrest-core-1.3" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: junit-3.8" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: resources-3.8" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: sandbox-3.8" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: utils-3.8" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: annotations-3.8" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: bcprov-jdk15on-1.52" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: xstream-1.4.8" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: maven-ant-tasks-2.1.3" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: ant-1.8.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: httpclient-4.0.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: commons-logging-1.1.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: opengl-api-gl1.1-android-2.1_r1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: xmlParserAPIs-2.6.2" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: xpp3-1.1.4c" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: json-20080701" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: shadowapi-3.8" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: guava-20.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: asm-commons-5.0.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: asm-tree-5.0.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: asm-5.0.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: sqlite4java-0.282" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: icu4j-53.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: xmlpull-1.1.3.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: xpp3_min-1.1.4c" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: ant-launcher-1.8.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: maven-project-2.2.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: maven-artifact-manager-2.2.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: maven-error-diagnostics-2.2.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: maven-settings-2.2.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: maven-profile-2.2.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: maven-plugin-registry-2.2.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: plexus-container-default-1.0-alpha-9-stable-1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: classworlds-1.1-alpha-2" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: maven-artifact-2.2.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: maven-model-2.2.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: wagon-file-1.0-beta-6" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: wagon-http-lightweight-1.0-beta-6" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: wagon-http-shared-1.0-beta-6" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: wagon-provider-api-1.0-beta-6" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: maven-repository-metadata-2.2.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: plexus-utils-1.5.15" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: plexus-interpolation-1.11" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: httpcore-4.0.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: commons-codec-1.3" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: protobuf-java-2.6.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: backport-util-concurrent-3.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: xercesMinimal-1.9.6.2" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: nekohtml-1.9.6.2" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: jackson-core-2.1.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: aws-sdk-android-aws-android-sdk-cognitoidentityprovider.aws-android-sdk-cognitoidentityprovider" level="project" />
+  </component>
+</module>
